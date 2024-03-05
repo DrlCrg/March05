@@ -24,9 +24,14 @@ Task 20 was fun, here I performed some cookie manipulation.
 ![Screenshot 2024-03-05 150311](https://github.com/DrlCrg/March05/assets/160629376/fe889e5e-8caf-4ba6-a473-2f5eec701169)
 I used the web development tools so I could edit the JSON Web Token (JWT) values so I could trick the server into thinking I was the Admin.
 
+
 ![Screenshot 2024-03-05 150318](https://github.com/DrlCrg/March05/assets/160629376/f5e3c5b7-787e-4b99-9222-3711735d2b7c)
 This required some work encoding/decoding Base64. Also I left out a "." and that mistake cost me so much time.
 
 Finally the last task (22) had me use netcat to find the flag. This took way too long because I had trouble connecting to the vpn.
+
+![Screenshot 2024-03-05 171234](https://github.com/DrlCrg/March05/assets/160629376/028de941-2ac5-44db-88bf-248785048e99)
+Progress
+
 
 Afterwards I worked on some interview prep for my interview with Sentrillion. 
